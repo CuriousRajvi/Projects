@@ -8,4 +8,5 @@ This project is aim to create console based solution for dynamic memory allocati
 
 
 ## Project-2
+AmbiCheck
 This project is aim to create console based solution to check the ambiguity in the context free grammar where the grammar consists parts of speech tagged sentences formulation rules by this an application of theory of computation was demonstrated.
