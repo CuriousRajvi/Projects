@@ -8,3 +8,4 @@ This project is aim to create console based solution for dynamic memory allocati
 
 
 ## Project-2
+This project is a console based solution to check ambiguity in the context free grammar of parts of speech tag sentences and display parse trees of them using NLTK library
